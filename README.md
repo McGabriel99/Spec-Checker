@@ -9,7 +9,7 @@ Update:
 Need-to-DO:
 - Finish setting up API/database.
 - Re-design search function to find game & associated info.
-- Output searched results to user/
+- Output searched results to user.
 
 Future Ideas/Plans: 
 - Utilize FireBase user authentication/profile system to email search results to the users emails.
